@@ -1,5 +1,7 @@
 # Template for Isaac Lab Projects
 
+[中文版本 (Chinese Version)](./README_zh.md)
+
 ## Overview
 
 This project/repository serves as a template for building projects or extensions based on Isaac Lab.
